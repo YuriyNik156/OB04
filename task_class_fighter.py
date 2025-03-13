@@ -61,7 +61,7 @@ fighter.change_weapon(Bow())
 fighter.attack()
 monster.attacked_by_fighter()
 
-print("Боец выбирает копье.")
+print("Боец выбирает телефон.")
 fighter.change_weapon(Nokia3310())
 fighter.attack()
 monster.attacked_by_fighter()
